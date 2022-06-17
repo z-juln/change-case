@@ -1,6 +1,6 @@
 {
   "name": "@juln/change-case",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "提供一系列命名风格转换的api",
   "main": "index.js",
   "typings": "typing.d.ts",
