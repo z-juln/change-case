@@ -35,4 +35,4 @@ const changeCase = (s, _case = 'kebab') => {
   return parseFn(s);
 };
 
-export default changeCase;
+module.exports = changeCase;
